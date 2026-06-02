@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pravallika",
+      "color": "#7c3aed"
+    },
+    {
+      "id": 2,
+      "name": "Anand",
+      "color": "#db2777"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Exercise",
+      "user_id": null
+    },
+    {
+      "id": 2,
+      "name": "Walking",
+      "user_id": null
+    },
+    {
+      "id": 3,
+      "name": "Unload dishwasher",
+      "user_id": null
+    },
+    {
+      "id": 4,
+      "name": "Cut veggies for salad",
+      "user_id": null
+    },
+    {
+      "id": 5,
+      "name": "Fold blankets",
+      "user_id": null
+    },
+    {
+      "id": 6,
+      "name": "Gym",
+      "user_id": 2
+    }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "task_id": 4,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "task_id": 1,
+      "date": "2026-06-01",
+      "completed": 0
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "task_id": 5,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "task_id": 3,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 5,
+      "user_id": 1,
+      "task_id": 2,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 6,
+      "user_id": 2,
+      "task_id": 4,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 7,
+      "user_id": 2,
+      "task_id": 1,
+      "date": "2026-06-01",
+      "completed": 0
+    },
+    {
+      "id": 8,
+      "user_id": 2,
+      "task_id": 5,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 9,
+      "user_id": 2,
+      "task_id": 3,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 10,
+      "user_id": 2,
+      "task_id": 2,
+      "date": "2026-06-01",
+      "completed": 1
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "task_id": 5,
+      "date": "2026-05-31",
+      "completed": 1
+    },
+    {
+      "id": 12,
+      "user_id": 1,
+      "task_id": 3,
+      "date": "2026-05-31",
+      "completed": 1
+    },
+    {
+      "id": 13,
+      "user_id": 2,
+      "task_id": 6,
+      "date": "2026-06-01",
+      "completed": 1
+    }
+  ],
+  "seq": {
+    "users": 3,
+    "tasks": 7,
+    "entries": 14
+  }
+}
